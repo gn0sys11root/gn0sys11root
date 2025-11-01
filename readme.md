@@ -2,7 +2,7 @@
 
 **Cybersecurity Enthusiast | Web Developer | Privacy Advocate**
 
-I'm a 20-year-old developer from Montevideo, Uruguay, passionate about cybersecurity, privacy, and creating tools that empower users to control their digital lives. In my free time, I've been working with servers, APIs, and web technologies since 2023. My philosophy centers on cybersecurity and web development. What I know for sure is that I can always learn something new and improve every hour.
+I'm a 20-year-old developer from Montevideo, Uruguay, passionate about cybersecurity, privacy, and creating tools that empower users to control their digital lives. In my free time, I've been working with servers, APIs, and web technologies since 2023. My philosophy centers on cybersecurity and web development. What I know for sure is that I can always learn something more and improve at what I do every day.
 
 ## About Me
 
