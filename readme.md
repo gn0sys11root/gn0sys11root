@@ -12,24 +12,10 @@ I'm a 20-year-old developer from Montevideo, Uruguay, passionate about cybersecu
 - 🌐 Managing VPS, cPanel, WordPress, and custom server infrastructures
 - 📚 Constantly learning and exploring new security techniques
 
-## Tech Stack
-
-**Languages:**
-- JavaScript (Node.js, Browser Extensions)
-- Python (Automation, Security Tools)
-- HTML/CSS
-
-**Technologies & Tools:**
-- APIs & Backend Development
-- VPS & Server Management
-- cPanel & WordPress
-- Browser Extension Development (Chromium & Firefox)
-- Security Testing & Analysis
-
 ## Current Focus
 
 - 🔒 Developing privacy-focused browser extensions
-- 🌐 Building secure web applications and APIs
+- 🌐 Building secure web applications and services
 - 🛡️ Exploring cybersecurity tools and techniques
 - 📦 Creating open-source tools for enhanced online privacy
 
