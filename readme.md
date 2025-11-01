@@ -1,0 +1,59 @@
+# Hi there, I'm Pablo Angel 👋
+
+**Cybersecurity Enthusiast | Web Developer | Privacy Advocate**
+
+I'm a 20-year-old developer from Montevideo, Uruguay, passionate about cybersecurity, privacy, and building tools that give users control over their digital lives. I've been working with servers, APIs, and web technologies since 2023, focusing on security-first development.
+
+## About Me
+
+- 🔐 Specialized in **cybersecurity** and **privacy-focused development**
+- 💻 Experienced in **web development** (frontend & backend)
+- 🛠️ Building browser extensions and web tools that prioritize user privacy
+- 🌐 Managing VPS, cPanel, WordPress, and custom server infrastructures
+- 📚 Constantly learning and exploring new security techniques
+
+## Tech Stack
+
+**Languages:**
+- JavaScript (Node.js, Browser Extensions)
+- Python (Automation, Security Tools)
+- HTML/CSS
+
+**Technologies & Tools:**
+- APIs & Backend Development
+- VPS & Server Management
+- cPanel & WordPress
+- Browser Extension Development (Chromium & Firefox)
+- Security Testing & Analysis
+
+## Current Focus
+
+- 🔒 Developing privacy-focused browser extensions
+- 🌐 Building secure web applications and APIs
+- 🛡️ Exploring cybersecurity tools and techniques
+- 📦 Creating open-source tools for enhanced online privacy
+
+## Philosophy
+
+I believe in:
+- **Privacy by design**: Users should own their data
+- **Security first**: Building with security in mind from day one
+- **Open source**: Transparency builds trust
+- **Local-first**: Keep data on user devices whenever possible
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gn0sys11root&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gn0sys11root&layout=compact&theme=dark&hide_border=true)
+
+## Recent Projects
+
+Check out my repositories to see what I'm working on! I focus on:
+- Browser extensions for session management and privacy
+- Security tools and utilities
+- Web applications with strong privacy features
+
+---
+
+*"Privacy is not about having something to hide. Privacy is about having something to protect."*
