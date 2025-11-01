@@ -33,14 +33,6 @@ I'm a 20-year-old developer from Montevideo, Uruguay, passionate about cybersecu
 - 🛡️ Exploring cybersecurity tools and techniques
 - 📦 Creating open-source tools for enhanced online privacy
 
-## Philosophy
-
-I believe in:
-- **Privacy by design**: Users should own their data
-- **Security first**: Building with security in mind from day one
-- **Open source**: Transparency builds trust
-- **Local-first**: Keep data on user devices whenever possible
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gn0sys11root&show_icons=true&theme=dark&hide_border=true)
