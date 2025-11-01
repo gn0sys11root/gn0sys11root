@@ -44,16 +44,4 @@ I believe in:
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gn0sys11root&show_icons=true&theme=dark&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gn0sys11root&layout=compact&theme=dark&hide_border=true)
-
-## Recent Projects
-
-Check out my repositories to see what I'm working on! I focus on:
-- Browser extensions for session management and privacy
-- Security tools and utilities
-- Web applications with strong privacy features
-
----
-
-*"Privacy is not about having something to hide. Privacy is about having something to protect."*
