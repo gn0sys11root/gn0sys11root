@@ -1,6 +1,6 @@
 # Buenas mi nombre es agustin 👋
 
-** Ciberseguridad | Wordpress | TryHackMe **
+# # Ciberseguridad | Wordpress | TryHackMe
 
 alguien tranquilo de uruguay que pasa su tiempo libre estudiando y estando en proyectos relacionados con la ciberseguridad y desarollo de sitios web 
 
